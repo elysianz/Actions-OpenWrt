@@ -11,5 +11,4 @@
 #
 
 # Add mtkiappd support for 802.11 k/v/r
-#svn export https://github.com/coolsnowwolf/lede/trunk/package/lean/mt/mtkiappd package/kernel/mt-drivers/mtkiappd
-svn export https://github.com/elysianz/actions-immortalwrt-mtk-sdk-phicomm-k2p/tree/main/files/package/kernel/mt-drivers/mtkiappd package/kernel/mt-drivers/mtkiappd
+svn export https://github.com/coolsnowwolf/lede/tree/master/package/lean/mt/mtkiappd package/kernel/mt-drivers/mtkiappd
